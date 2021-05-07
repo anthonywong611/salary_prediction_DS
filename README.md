@@ -3,7 +3,8 @@
 # What's the Problem?
 
 This project examines job posting salaries based on existing dataset, and make prediction for salaries of new job postings. An estimation of 
-salary range across different industries offers people a rough idea of 
+salary range across different industries offers job seekers guidance in their application for their desired jobs; the HR department can use
+these prediction in their construction of business processes for the job posting. 
 
 
 # Datasets
