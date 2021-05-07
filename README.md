@@ -79,3 +79,16 @@ Three models are selected:
 
 The best model with lowest mean square error is the Gradient Boosting Regressor. 
 
+# Solution 
+
+Here's a glimpse of the predicted salaries for job postings based on the Gradient Boosting model on the training set:
+
+![](images/predicted_solution.png)
+
+## Feature Importances
+
+![](images/feature_importances.png)
+
+Years of experience, distance from the metropolis, and job types have the most importances in predicting salary among all features. Major
+type has the least importance in predicting salary. 
+
